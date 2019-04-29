@@ -1,0 +1,7 @@
+package com.syzy.spring;
+
+public class Springdean2 {
+	public void add(){
+		System.out.println();
+	}
+}

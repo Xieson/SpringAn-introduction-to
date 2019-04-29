@@ -1,0 +1,8 @@
+package com.syzy.spring;
+
+public class Springdean3 {
+	private Springdean2 springdean2;
+	public void find(){
+		System.out.println("Springdean...............");
+	}
+}

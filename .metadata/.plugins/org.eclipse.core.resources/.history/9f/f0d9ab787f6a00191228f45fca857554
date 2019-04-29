@@ -1,0 +1,28 @@
+package com.syzy.forbean;
+
+public class Fordemo {
+/*
+ *               88
+ *            88888888
+ *         88888888888888
+ *      88888888888888888888
+ *         88888888888888      
+ *            88888888
+ *               88
+ * 
+ * 
+ * 
+ * */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	for(int i=1;i<=7;i++){
+		for(int x=1;x<=3;x+3){
+			System.out.println("nihfusagf");
+		}
+	}
+	
+	
+	}
+
+}

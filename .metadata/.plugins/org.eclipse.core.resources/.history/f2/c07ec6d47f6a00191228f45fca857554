@@ -1,0 +1,32 @@
+package com.syzy.forbean;
+
+public class Fordemo {
+/*
+ *               88
+ *          888888888888
+ *         88888888888888
+ *      88888888888888888888
+ *         88888888888888      
+ *            88888888
+ *               88
+ * 
+ * 
+ * 
+ * */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	for(int i=1;i<=50;i++){
+		for(int x=1;x<=24;x++){
+			System.out.print(" ");
+		}
+		for(int y=1;y<=50;y++){
+			System.out.println("8");
+		}
+		System.out.println();
+	}
+	
+	
+	}
+
+}

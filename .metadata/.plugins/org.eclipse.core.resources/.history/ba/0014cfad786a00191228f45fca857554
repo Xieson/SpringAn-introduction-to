@@ -1,0 +1,12 @@
+package com.syzy.spring;
+
+public class Springbean3 {
+	private Springbean2 springbean2;
+
+	public void setSpringbean2(Springbean2 springbean2) {
+		this.springbean2 = springbean2;
+	}
+	public void find(){
+		System.out.println("Springbean3+++--------0-0=0-uughewuhrbfeuy");
+	}
+}
